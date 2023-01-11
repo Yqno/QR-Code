@@ -3,7 +3,7 @@
 import pyqrcode 
 from pyqrcode import QRCode 
 
-p = " "
+p = "yourlinkhere"
 
 # Generate QR code 
 url = pyqrcode.create(s) 
